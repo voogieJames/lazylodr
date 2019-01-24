@@ -1,0 +1,19 @@
+html, body {
+    height: 100%;
+    width: 100%;
+}
+
+body {
+    background-color: #dedede;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.gallery {
+    background-color: white;
+    border: 1px solid #999999;
+    height: 80%;
+    width: 80%;
+    overflow: scroll;
+}
